@@ -1,9 +1,7 @@
 # Different models. Same ideas.
 
-We tested 5 LLMs across 2 topics and 3 prompt types.  
+tested 5 LLMs across 2 topics and 3 prompt types.  
 No matter how we changed the inputs, the outputs consistently collapsed into the same small set of patterns.
-
----
 
 ## Setup
 
@@ -16,8 +14,6 @@ No matter how we changed the inputs, the outputs consistently collapsed into the
 
 Total: 30 conditions tested
 
----
-
 ## Key Finding
 
 Across all models and conditions, ideas consistently mapped to 6 structural patterns:
@@ -29,9 +25,8 @@ Across all models and conditions, ideas consistently mapped to 6 structural patt
 - Environmental Design  
 - Tech Integration  
 
----
 
 ## Why this matters
 
 LLMs appear creative, but operate within a constrained conceptual space.  
-The diversity is mostly in language — not in underlying ideas.
+The diversity is mostly in language, not in underlying ideas.
