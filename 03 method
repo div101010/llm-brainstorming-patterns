@@ -1,0 +1,22 @@
+# Method
+
+- Selected 2 domains:
+  - Elderly mobility
+  - Education  
+
+- Designed 3 prompt types:
+  - Open
+  - Constrained
+  - Cross-domain  
+
+- Tested across 5 models:
+  GPT, Gemini, DeepSeek, Claude, Grok  
+
+- Generated 200+ ideas  
+
+- Manually categorized ideas into structural patterns  
+
+- Compared outputs across:
+  - models
+  - prompts
+  - topics  
