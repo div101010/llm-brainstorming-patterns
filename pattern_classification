@@ -1,0 +1,50 @@
+# Pattern Classification
+
+To understand how LLMs generate ideas, outputs were broken down into core conceptual structures.
+
+Each idea was reduced to its underlying function rather than surface wording.
+
+Example
+
+"AI-powered personalized learning system"  
+Core: Personalization + System
+
+"Mobility buddy program"  
+Core: Social coordination
+
+"Mycelium-inspired learning networks"  
+ Core: Network system
+
+Final Pattern Categories
+
+The following patterns were identified across all models:
+
+1. Optimization  
+→ Improving existing systems  
+(e.g. smart crosswalks, adaptive learning)
+
+2. Platform / System  
+→ Creating structured systems or networks  
+(e.g. learning hubs, mobility systems)
+
+3. Social Systems  
+→ Human coordination or interaction  
+(e.g. buddy systems, guilds)
+
+4. Network / Flow  
+→ Distributed or flow-based systems  
+(e.g. mycelium networks, swarm systems)
+
+5. Environmental Design  
+→ Physical or spatial changes  
+(e.g. sidewalks, corridors, benches)
+
+6. Tech Integration  
+→ Use of AI, sensors, digital tools  
+(e.g. AI tutors, smart infrastructure)
+
+Observation
+
+Different ideas often mapped to the same pattern despite different wording.
+
+This suggests repetition at the structural level, not just at the surface level.
